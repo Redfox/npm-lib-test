@@ -5,10 +5,3 @@ asdsad
 qqqq
 
 qqq
-
-
-sssss
-
-
-
-kkkkkkkk
