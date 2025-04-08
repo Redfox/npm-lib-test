@@ -4,7 +4,7 @@ import React2 from "react";
 // src/component.tsx
 import React, { useEffect, useState } from "react";
 
-// src/constants.ts
+//  src/constants.ts
 var TEST = "TEST";
 
 // src/component.tsx
